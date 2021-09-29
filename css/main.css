@@ -1,0 +1,19 @@
+
+.grid-container{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    grid-template-rows:1fr 1fr;
+    grid-gap: 0px;
+    align-items: center;
+    justify-items: center;
+}
+
+
+
+img{
+    border:1px solid rgb(224, 224, 224);
+    padding: 20px 20px 20px 20px;
+    height:50px;
+    margin-bottom:-4px;
+}
+
